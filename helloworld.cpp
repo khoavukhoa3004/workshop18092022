@@ -8,3 +8,7 @@ int main(){
 }
 
 hello
+
+FPE_STACKUNDERFLOW
+
+fsdfads
